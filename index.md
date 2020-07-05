@@ -11,7 +11,7 @@ Being new to the world of ML, I'm familiarizing myself with the fundamentals by 
 ```markdown
 
 - updates on my reading
-- my first blog post on ***mint***
+- my first blog post on mint
 - (perhaps) personal anecdotes related to this journey
 
 ```

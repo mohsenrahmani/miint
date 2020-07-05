@@ -10,8 +10,8 @@ Being new to the world of ML, I'm familiarizing myself with the fundamentals by 
 
 ```markdown
 
-- Updates on my reading
-- My first blog post on *mint*
-- Perhaps personal anecdotes related to this journey
+- updates on my reading
+- my first blog post on ***mint***
+- (perhaps) personal anecdotes related to this journey
 
 ```

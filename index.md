@@ -1,6 +1,6 @@
 # Welcome to mint
 
-mint is Mohsen's personal story in navigating the worlds of ML and data science. Coming from a STEM background, I plan to learn and share my learning through this blog. Comments are always welcome.
+mint is Mohsen's personal story in navigating the worlds of ML and data science. I plan to learn and share my learning through this blog. Comments are always welcome.
 
 ## What am I up to
 

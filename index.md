@@ -4,14 +4,18 @@ mint is Mohsen's personal story in navigating the worlds of ML and data science.
 
 ## What am I up to
 
-Being new to the world of ML, I'm familiarizing myself with the fundamentals by reading [the Deep Learning](https://www.deeplearningbook.org) textbook. I am also experimenting with **GitHub** and **Kaggle**, hoping to start working on my first project soon.
+# Reading 
+
+Being new to the world of ML, I'm familiarizing myself with the fundamentals by reading select sections of [the Deep Learning](https://www.deeplearningbook.org), [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282), and [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880). I also look up things that I need more elaboration on and read blogposts on them.
+
+# Doing
+
+I am also experimenting with **GitHub** and **Kaggle**. On Kaggle, I have started to write kernels for some of the past competitions and submit them. I find useful stuff in the notebooks submitted for the same competitions by other users. 
 
 ## Coming soon
 
 ```markdown
 
-- updates on my reading
 - my first blog post on mint
-- (perhaps) personal anecdotes related to this journey
 
 ```
